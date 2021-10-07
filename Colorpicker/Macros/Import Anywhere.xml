@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2021-10-07T20:45:18" showfile="color try 0.95" />
+	<Macro index="1" name="1COLPRESET CREATOR">
+		<Macroline index="0">
+			<text>(THIS WILL BE STORED AT PRESET 4.1 THRU 4.12 AND 4.100 + 4.101)</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>ClearAll</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Group (Which Groups? Make sure to include colmix and colwheels ones)</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>At Gel 1.1; Store Preset 4.1 &quot;WHITE&quot;;</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>At Gel 1.2; Store Preset 4.2 &quot;RED&quot;;</text>
+		</Macroline>
+		<Macroline index="5">
+			<text>At Gel 1.3; Store Preset 4.3 &quot;ORANGE&quot;;</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>At Gel 1.4; Store Preset 4.4 &quot;YELLOW&quot;;</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>At Gel 1.6; Store Preset 4.5 &quot;GREEN&quot;;</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>At Gel 1.7; Store Preset 4.6 &quot;SEAGREEN&quot;;</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>At Gel 1.8; Store Preset 4.7 &quot;CYAN&quot;;</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>At Gel 1.10; Store Preset 4.8 &quot;BLUE&quot;;</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>At Gel 1.9; Store Preset 4.9 &quot;LAVENDER&quot;;</text>
+		</Macroline>
+		<Macroline index="12">
+			<text>At Gel 1.11; Store Preset 4.10 &quot;VIOLET&quot;;</text>
+		</Macroline>
+		<Macroline index="13">
+			<text>At Gel 1.12; Store Preset 4.11 &quot;MAGENTA&quot;;</text>
+		</Macroline>
+		<Macroline index="14">
+			<text>At Gel 1.13; Store Preset 4.12 &quot;PINK&quot;;</text>
+		</Macroline>
+		<Macroline index="15">
+			<text>At Gel 1.1; Store Preset 4.100 &quot;FX HIGH&quot;;</text>
+		</Macroline>
+		<Macroline index="16">
+			<text>At Gel 1.2; Store Preset 4.101 &quot;FX LOW&quot;;</text>
+		</Macroline>
+		<Macroline index="17">
+			<text>ClearAll</text>
+		</Macroline>
+	</Macro>
+	<Macro index="2" name="2Platzhalter erstellen">
+		<Macroline index="0">
+			<text>ClearAll</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Store Image 16 ; Label Image 16 &quot;UNFILLED&quot;</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Store Image 32 ; Label Image 32 &quot;FILLED&quot;</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Store Image 48 ; Label Image 48 &quot;BEAMCOLORS&quot;</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Store Image 64 ; Label Image 64 &quot;SPOTCOLORS&quot;</text>
+		</Macroline>
+		<Macroline index="5">
+			<text>Store Image 80 ; Label Image 80 &quot;WASH1COLORS&quot;</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>Store Image 112 ; Label Image 112 &quot;LED1COLORS&quot;</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>Store Image 144 ; Label Image 144 &quot;ALLCOLORS&quot;</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>Store Image 96 ; Label Image 96 &quot;WASH2COLORS&quot;</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>Store Image 128 ; Label Image 128 &quot;LED2COLORS&quot;</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>Store Image 176 ; Label Image 176 &quot;FX HIGH&quot;</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>Store Image 192 ; Label Image 192 &quot;FX LOW&quot;</text>
+		</Macroline>
+		<Macroline index="12">
+			<text>Store Page 1.99</text>
+		</Macroline>
+		<Macroline index="13">
+			<text>Delete Macro *placeholder*</text>
+		</Macroline>
+		<Macroline index="14">
+			<text>ClearAll</text>
+		</Macroline>
+	</Macro>
+	<Macro index="3" name="3IMAGEVARIABLEFIXER">
+		<Macroline index="0">
+			<text>ClearAll</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>SetVar $UNFILLED =&quot;Image 17 Thru 28&quot;</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>SetVar $FILLED =&quot;Image 33 Thru 44&quot;</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>SetVar $BEAMCOLORS =&quot;Image 49 Thru 60&quot;</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>SetVar $SPOTCOLORS =&quot;Image 65 Thru 76&quot;</text>
+		</Macroline>
+		<Macroline index="5">
+			<text>SetVar $WASH1COLORS =&quot;Image 81 Thru 92&quot;</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>SetVar $LED1COLORS =&quot;Image 113 Thru 124&quot;</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>SetVar $ALLCOLORS =&quot;Image 145 Thru 156&quot;</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>SetVar $WHITEIMAGE =&quot;Image 49 + 65 + 81 + 97 + 113 + 129&quot;</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>SetVar $REDIMAGE =&quot;Image 50 + 66 + 82 + 98 + 114 + 130&quot;</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>SetVar $ORANGEIMAGE =&quot;Image 51 + 67 + 83 + 99 + 115 + 131&quot;</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>SetVar $YELLOWIMAGE =&quot;Image 52 + 68 + 84 + 100 + 116 + 132&quot;</text>
+		</Macroline>
+		<Macroline index="12">
+			<text>SetVar $GREENIMAGE =&quot;Image 53 + 69 + 85 + 101 + 117 + 133&quot;</text>
+		</Macroline>
+		<Macroline index="13">
+			<text>SetVar $SEAGREENIMAGE =&quot;Image 54 + 70 + 86 + 102 + 118 + 134&quot;</text>
+		</Macroline>
+		<Macroline index="14">
+			<text>SetVar $BLUEIMAGE =&quot;Image 56 + 72 + 88 + 104 + 120 + 136&quot;</text>
+		</Macroline>
+		<Macroline index="15">
+			<text>SetVar $LAVENDERIMAGE =&quot;Image 57 + 73 + 89 + 105 + 121 + 137&quot;</text>
+		</Macroline>
+		<Macroline index="16">
+			<text>SetVar $VIOLETIMAGE =&quot;Image 58 + 74 + 90 + 106 + 122 + 138&quot;</text>
+		</Macroline>
+		<Macroline index="17">
+			<text>SetVar $MAGENTAIMAGE =&quot;Image 59 + 75 + 91 + 107 + 123 + 139&quot;</text>
+		</Macroline>
+		<Macroline index="18">
+			<text>SetVar $PINKIMAGE =&quot;Image 60 + 76 + 92 + 108 + 124 + 140&quot;</text>
+		</Macroline>
+		<Macroline index="19">
+			<text>SetVar $CYANIMAGE =&quot;Image 55 + 71 + 87 + 103 + 119 + 135&quot;</text>
+		</Macroline>
+		<Macroline index="20">
+			<text>SetVar $WASH2COLORS =&quot;Image 97  Thru 108&quot;</text>
+		</Macroline>
+		<Macroline index="21">
+			<text>SetVar $LED2COLORS =&quot;Image 129 Thru 140&quot;</text>
+		</Macroline>
+		<Macroline index="22">
+			<text>SetVar $FXHIGHCOLORS =&quot;Image 177 Thru 188&quot;</text>
+		</Macroline>
+		<Macroline index="23">
+			<text>SetVar $FXLOWCOLORS =&quot;Image 193 Thru 204&quot;</text>
+		</Macroline>
+		<Macroline index="24">
+			<text>ClearAll</text>
+		</Macroline>
+	</Macro>
+	<Macro index="4" name="4Image Copier">
+		<Macroline index="0">
+			<text>ClearAll</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>(ERST IMAGES IMPORTIEREN!)</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy $UNFILLED At Image 49 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At Image 65 /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy $UNFILLED At Image 81 /o</text>
+		</Macroline>
+		<Macroline index="5">
+			<text>Copy $UNFILLED At Image 97 /o</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>Copy $UNFILLED At Image 113 /o</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>Copy $UNFILLED At Image 129 /o</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>Copy $UNFILLED At Image 145 /o</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>Copy $UNFILLED At Image 177 /o</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>Copy $UNFILLED At Image 193 /o</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>ClearAll</text>
+		</Macroline>
+	</Macro>
+	<Macro index="5" name="5 Layout import">
+		<Macroline index="0">
+			<text>ClearAll</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Import &quot;Colorpicker0.9&quot; At Layout (Which Layout View)</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>ClearAll</text>
+		</Macroline>
+	</Macro>
+</MA>

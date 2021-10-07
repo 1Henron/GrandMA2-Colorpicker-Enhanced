@@ -1,0 +1,1694 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2021-10-07T20:45:27" showfile="color try 0.95" />
+	<Macro index="799" name="BEAMS" />
+	<Macro index="800" name="BMWHITE">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At Image 49 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="801" name="BMRED">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At Image 50 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="802" name="BMORANGE">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At Image 51 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="803" name="BMYELLOW">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At Image 52 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="804" name="BMGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At Image 53 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="805" name="BMSEAGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At Image 54 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="806" name="BMCYAN">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At Image 55 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="807" name="BMBLUE">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At Image 56 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="808" name="BMLAVENDER">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At Image 57 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="809" name="BMVIOLET">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At Image 58 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="810" name="BMMAGENTA">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At Image 59 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="811" name="BMPINK">
+		<Macroline index="0">
+			<text>Goto Executor 99.1 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At Image 60 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="812" name="SPOT" />
+	<Macro index="813" name="SPTWHITE">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At Image 65 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="814" name="SPTRED">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At Image 66 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="815" name="SPTORANGE">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At Image 67 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="816" name="SPTYELLOW">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At Image 68 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="817" name="SPTGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At Image 69 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="818" name="SPTSEAGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At Image 70 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="819" name="SPTCYAN">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At Image 71 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="820" name="SPTBLUE">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At Image 72 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="821" name="SPTLAVENDER">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At Image 73 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="822" name="SPTVIOLET">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At Image 74 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="823" name="SPTMAGENTA">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At Image 75 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="824" name="SPTPINK">
+		<Macroline index="0">
+			<text>Goto Executor 99.2 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $SPOTCOLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At Image 76 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="825" name="WASH1" />
+	<Macro index="826" name="WSHWHITE">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At Image 81 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="827" name="WSHRED">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At Image 82 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="828" name="WSHORANGE">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At Image 83 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="829" name="WSHYELLOW">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At Image 84 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="830" name="WSHGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At Image 85 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="831" name="WSHSEAGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At Image 86 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="832" name="WSHCYAN">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At Image 87 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="833" name="WSHBLUE">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At Image 88 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="834" name="WSHLAVENDER">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At Image 89 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="835" name="WSHVIOLET">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At Image 90 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="836" name="WSHMAGENTA">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At Image 91 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="837" name="WSHPINK">
+		<Macroline index="0">
+			<text>Goto Executor 99.3 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At Image 92 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="838" name="WASH2" />
+	<Macro index="839" name="WSH2WHITE">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At Image 97 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="840" name="WSH2RED">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At Image 98 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="841" name="WSH2ORANGE">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At Image 99 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="842" name="WSH2YELLOW">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At Image 100 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="843" name="WSH2GREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At Image 101 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="844" name="WSH2SEAGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At Image 102 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="845" name="WSH2CYAN">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At Image 103 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="846" name="WSH2BLUE">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At Image 104 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="847" name="WSH2LAVENDER">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At Image 105 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="848" name="WSH2VIOLET">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At Image 106 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="849" name="WSH2MAGENTA">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At Image 107 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="850" name="WSH2PINK">
+		<Macroline index="0">
+			<text>Goto Executor 99.4 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $WASH2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At Image 108 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="851" name="LED1" />
+	<Macro index="852" name="LEDWHITE">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At Image 113 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="853" name="LEDRED">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At Image 114 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="854" name="LEDORANGE">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At Image 115 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="855" name="LEDYELLOW">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At Image 116 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="856" name="LEDGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At Image 117 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="857" name="LEDSEAGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At Image 118 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="858" name="LEDCYAN">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At Image 119 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="859" name="LEDBLUE">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At Image 120 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="860" name="LEDLAVENDER">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At Image 121 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="861" name="LEDVIOLET">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At Image 122 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="862" name="LEDMAGENTA">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At Image 123 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="863" name="LEDPINK">
+		<Macroline index="0">
+			<text>Goto Executor 99.5 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED1COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At Image 124 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="864" name="LED2" />
+	<Macro index="865" name="LED2WHITE">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At Image 129 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="866" name="LED2RED">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At Image 130 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="867" name="LED2ORANGE">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At Image 131 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="868" name="LED2YELLOW">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At Image 132 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="869" name="LED2GREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At Image 133 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="870" name="LED2SEAGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At Image 134 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="871" name="LED2CYAN">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At Image 135 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="872" name="LED2BLUE">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At Image 136 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="873" name="LED2LAVENDER">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At Image 137 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="874" name="LED2VIOLET">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At Image 138 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="875" name="LED2MAGENTA">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At Image 139 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="876" name="LED2PINK">
+		<Macroline index="0">
+			<text>Goto Executor 99.6 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At Image 140 /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="877" name="ALL" />
+	<Macro index="878" name="ALLWHITE">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At $WHITEIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 33 At Image 145 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="879" name="ALLRED">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At $REDIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 34 At Image 146 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="880" name="ALLORANGE">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At $ORANGEIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 35 At Image 147 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="881" name="ALLYELLOW">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At $YELLOWIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 36 At Image 148 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="882" name="ALLGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At $GREENIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 37 At Image 149 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="883" name="ALLSEAGREEN">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At $SEAGREENIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 38 At Image 150 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="884" name="ALLCYAN">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At $CYANIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 39 At Image 151 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="885" name="ALLBLUE">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At $BLUEIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 40 At Image 152 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="886" name="ALLLAVENDER">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At $LAVENDERIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 41 At Image 153 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="887" name="ALLVIOLET">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At $VIOLETIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 42 At Image 154 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="888" name="ALLMAGENTA">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At $MAGENTAIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 43 At Image 155 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="889" name="ALLPINK">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At $PINKIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 44 At Image 156 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="895" name="ALL#2" />
+	<Macro index="896" name="ALLWHITE#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 1</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 33 At $WHITEIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 33 At Image 145 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="897" name="ALLRED#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 2</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 34 At $REDIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 34 At Image 146 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="898" name="ALLORANGE#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 3</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 35 At $ORANGEIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 35 At Image 147 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="899" name="ALLYELLOW#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 36 At $YELLOWIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 36 At Image 148 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="900" name="ALLGREEN#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 5</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 37 At $GREENIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 37 At Image 149 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="901" name="ALLSEAGREEN#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 6</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 38 At $SEAGREENIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 38 At Image 150 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="902" name="ALLCYAN#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 7</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 39 At $CYANIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 39 At Image 151 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="903" name="ALLBLUE#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 8</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 40 At $BLUEIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 40 At Image 152 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="904" name="ALLLAVENDER#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 9</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 41 At $LAVENDERIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 41 At Image 153 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="905" name="ALLVIOLET#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 10</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 42 At $VIOLETIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 42 At Image 154 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="906" name="ALLMAGENTA#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 11</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 43 At $MAGENTAIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 43 At Image 155 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="907" name="ALLPINK#2">
+		<Macroline index="0">
+			<text>Goto Executor 99.7 Cue 12</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy $UNFILLED At $BEAMCOLORS /o ; Copy $UNFILLED At $SPOTCOLORS /o ; Copy $UNFILLED At $WASH1COLORS /o ; Copy $UNFILLED At $LED1COLORS /o ; Copy $UNFILLED At $WASH2COLORS /o ; Copy $UNFILLED At $LED2COLORS /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Image 44 At $PINKIMAGE /o</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Copy $UNFILLED At $ALLCOLORS /o</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>Copy Image 44 At Image 156 /o</text>
+		</Macroline>
+	</Macro>
+	<Macro index="943" name="FXHIGH" />
+	<Macro index="944" name="FXHIGH WHITE">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 33 At Image 177 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.1 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="945" name="FXHIGHRED">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 34 At Image 178 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.2 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="946" name="FXHIGHORANGE">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 35 At Image 179 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.3 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="947" name="FXHIGHYELLOW">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 36 At Image 180 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.4 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="948" name="FXHIGHGREEN">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 37 At Image 181 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.5 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="949" name="FXHIGHSEAGREEN">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 38 At Image 182 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.6 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="950" name="FXHIGHCYAN">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 39 At Image 183 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.7 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="951" name="FXHIGHBLUE">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 40 At Image 184 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.8 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="952" name="FXHIGHLAVENDER">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 41 At Image 185 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.9 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="953" name="FXHIGHVIOLET">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 42 At Image 186 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.10 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="954" name="FXHIGHMAGENTA">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 43 At Image 187 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.11 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="955" name="FXHIGHPINK">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXHIGHCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 44 At Image 188 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.12 At 4.100 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="959" name="FXLOW" />
+	<Macro index="960" name="FXLOWWHITE">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 33 At Image 193 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.1 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="961" name="FXLOWRED">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 34 At Image 194 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.2 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="962" name="FXLOWORANGE">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 35 At Image 195 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.3 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="963" name="FXLOWYELLOW">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 36 At Image 196 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.4 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="964" name="FXLOWGREEN">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 37 At Image 197 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.5 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="965" name="FXLOWSEAGREEN">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 38 At Image 198 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.6 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="966" name="FXLOWCYAN">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 39 At Image 199 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.7 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="967" name="FXLOWBLUE">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 40 At Image 200 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.8 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="968" name="FXLOWLAVENDER">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 41 At Image 201 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.9 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="969" name="FXLOWVIOLET">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 42 At Image 202 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.10 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="970" name="FXLOWMAGENTA">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 43 At Image 203 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.11 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+	<Macro index="971" name="FXLOWPINK">
+		<Macroline index="0">
+			<text>Copy $UNFILLED At $FXLOWCOLORS /o</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Copy Image 44 At Image 204 /o</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Copy Preset 4.12 At 4.101 /m</text>
+		</Macroline>
+	</Macro>
+</MA>

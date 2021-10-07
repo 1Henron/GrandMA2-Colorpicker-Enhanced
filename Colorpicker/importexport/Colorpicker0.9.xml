@@ -1,0 +1,1270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2021-10-07T19:49:57" showfile="delight henrik col try 0.5" />
+	<Group index="2" name="Color">
+		<LayoutData index="0" marker_visible="true" background_color="000000" visible_grid_h="0" visible_grid_w="1" snap_grid_h="0.5" snap_grid_w="0.5" default_gauge="Filled &amp; Symbol" subfixture_view_mode="DMX Layer">
+			<CObjects>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="BEAMS 800">
+						<No>13</No>
+						<No>1</No>
+						<No>800</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#4 49">
+						<No>8</No>
+						<No>49</No>
+					</image>
+					<CObject name="BMWHITE 801">
+						<No>13</No>
+						<No>1</No>
+						<No>801</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#2 50">
+						<No>8</No>
+						<No>50</No>
+					</image>
+					<CObject name="BMRED 802">
+						<No>13</No>
+						<No>1</No>
+						<No>802</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#2 51">
+						<No>8</No>
+						<No>51</No>
+					</image>
+					<CObject name="BMORANGE 803">
+						<No>13</No>
+						<No>1</No>
+						<No>803</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#4 52">
+						<No>8</No>
+						<No>52</No>
+					</image>
+					<CObject name="BMYELLOW 804">
+						<No>13</No>
+						<No>1</No>
+						<No>804</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#2 53">
+						<No>8</No>
+						<No>53</No>
+					</image>
+					<CObject name="BMGREEN 805">
+						<No>13</No>
+						<No>1</No>
+						<No>805</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#2 54">
+						<No>8</No>
+						<No>54</No>
+					</image>
+					<CObject name="BMSEAGREEN 806">
+						<No>13</No>
+						<No>1</No>
+						<No>806</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#2 55">
+						<No>8</No>
+						<No>55</No>
+					</image>
+					<CObject name="BMCYAN 807">
+						<No>13</No>
+						<No>1</No>
+						<No>807</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#3 56">
+						<No>8</No>
+						<No>56</No>
+					</image>
+					<CObject name="BMBLUE 808">
+						<No>13</No>
+						<No>1</No>
+						<No>808</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#6 57">
+						<No>8</No>
+						<No>57</No>
+					</image>
+					<CObject name="BMLAVENDER 809">
+						<No>13</No>
+						<No>1</No>
+						<No>809</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#2 58">
+						<No>8</No>
+						<No>58</No>
+					</image>
+					<CObject name="BMVIOLET 810">
+						<No>13</No>
+						<No>1</No>
+						<No>810</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#2 59">
+						<No>8</No>
+						<No>59</No>
+					</image>
+					<CObject name="BMMAGENTA 811">
+						<No>13</No>
+						<No>1</No>
+						<No>811</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-12.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#2 60">
+						<No>8</No>
+						<No>60</No>
+					</image>
+					<CObject name="BMPINK 812">
+						<No>13</No>
+						<No>1</No>
+						<No>812</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="SPOT 813">
+						<No>13</No>
+						<No>1</No>
+						<No>813</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#5 65">
+						<No>8</No>
+						<No>65</No>
+					</image>
+					<CObject name="SPTWHITE 814">
+						<No>13</No>
+						<No>1</No>
+						<No>814</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#3 66">
+						<No>8</No>
+						<No>66</No>
+					</image>
+					<CObject name="SPTRED 815">
+						<No>13</No>
+						<No>1</No>
+						<No>815</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#3 67">
+						<No>8</No>
+						<No>67</No>
+					</image>
+					<CObject name="SPTORANGE 816">
+						<No>13</No>
+						<No>1</No>
+						<No>816</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#5 68">
+						<No>8</No>
+						<No>68</No>
+					</image>
+					<CObject name="SPTYELLOW 817">
+						<No>13</No>
+						<No>1</No>
+						<No>817</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#3 69">
+						<No>8</No>
+						<No>69</No>
+					</image>
+					<CObject name="SPTGREEN 818">
+						<No>13</No>
+						<No>1</No>
+						<No>818</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#3 70">
+						<No>8</No>
+						<No>70</No>
+					</image>
+					<CObject name="SPTSEAGREEN 819">
+						<No>13</No>
+						<No>1</No>
+						<No>819</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#3 71">
+						<No>8</No>
+						<No>71</No>
+					</image>
+					<CObject name="SPTCYAN 820">
+						<No>13</No>
+						<No>1</No>
+						<No>820</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#8 72">
+						<No>8</No>
+						<No>72</No>
+					</image>
+					<CObject name="SPTBLUE 821">
+						<No>13</No>
+						<No>1</No>
+						<No>821</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#4 73">
+						<No>8</No>
+						<No>73</No>
+					</image>
+					<CObject name="SPTLAVENDER 822">
+						<No>13</No>
+						<No>1</No>
+						<No>822</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#3 74">
+						<No>8</No>
+						<No>74</No>
+					</image>
+					<CObject name="SPTVIOLET 823">
+						<No>13</No>
+						<No>1</No>
+						<No>823</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#8 75">
+						<No>8</No>
+						<No>75</No>
+					</image>
+					<CObject name="SPTMAGENTA 824">
+						<No>13</No>
+						<No>1</No>
+						<No>824</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-11.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#3 76">
+						<No>8</No>
+						<No>76</No>
+					</image>
+					<CObject name="SPTPINK 825">
+						<No>13</No>
+						<No>1</No>
+						<No>825</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="WASH1 826">
+						<No>13</No>
+						<No>1</No>
+						<No>826</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#6 81">
+						<No>8</No>
+						<No>81</No>
+					</image>
+					<CObject name="WSHWHITE 827">
+						<No>13</No>
+						<No>1</No>
+						<No>827</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#4 82">
+						<No>8</No>
+						<No>82</No>
+					</image>
+					<CObject name="WSHRED 828">
+						<No>13</No>
+						<No>1</No>
+						<No>828</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#4 83">
+						<No>8</No>
+						<No>83</No>
+					</image>
+					<CObject name="WSHORANGE 829">
+						<No>13</No>
+						<No>1</No>
+						<No>829</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#6 84">
+						<No>8</No>
+						<No>84</No>
+					</image>
+					<CObject name="WSHYELLOW 830">
+						<No>13</No>
+						<No>1</No>
+						<No>830</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#4 85">
+						<No>8</No>
+						<No>85</No>
+					</image>
+					<CObject name="WSHGREEN 831">
+						<No>13</No>
+						<No>1</No>
+						<No>831</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#4 86">
+						<No>8</No>
+						<No>86</No>
+					</image>
+					<CObject name="WSHSEAGREEN 832">
+						<No>13</No>
+						<No>1</No>
+						<No>832</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#4 87">
+						<No>8</No>
+						<No>87</No>
+					</image>
+					<CObject name="WSHCYAN 833">
+						<No>13</No>
+						<No>1</No>
+						<No>833</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#4 88">
+						<No>8</No>
+						<No>88</No>
+					</image>
+					<CObject name="WSHBLUE 834">
+						<No>13</No>
+						<No>1</No>
+						<No>834</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#7 89">
+						<No>8</No>
+						<No>89</No>
+					</image>
+					<CObject name="WSHLAVENDER 835">
+						<No>13</No>
+						<No>1</No>
+						<No>835</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#4 90">
+						<No>8</No>
+						<No>90</No>
+					</image>
+					<CObject name="WSHVIOLET 836">
+						<No>13</No>
+						<No>1</No>
+						<No>836</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#4 91">
+						<No>8</No>
+						<No>91</No>
+					</image>
+					<CObject name="WSHMAGENTA 837">
+						<No>13</No>
+						<No>1</No>
+						<No>837</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-9.989" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#4 92">
+						<No>8</No>
+						<No>92</No>
+					</image>
+					<CObject name="WSHPINK 838">
+						<No>13</No>
+						<No>1</No>
+						<No>838</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="WASH2 839">
+						<No>13</No>
+						<No>1</No>
+						<No>839</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#7 97">
+						<No>8</No>
+						<No>97</No>
+					</image>
+					<CObject name="WSH2WHITE 840">
+						<No>13</No>
+						<No>1</No>
+						<No>840</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#6 98">
+						<No>8</No>
+						<No>98</No>
+					</image>
+					<CObject name="WSH2RED 841">
+						<No>13</No>
+						<No>1</No>
+						<No>841</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#6 99">
+						<No>8</No>
+						<No>99</No>
+					</image>
+					<CObject name="WSH2ORANGE 842">
+						<No>13</No>
+						<No>1</No>
+						<No>842</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#8 100">
+						<No>8</No>
+						<No>100</No>
+					</image>
+					<CObject name="WSH2YELLOW 843">
+						<No>13</No>
+						<No>1</No>
+						<No>843</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#6 101">
+						<No>8</No>
+						<No>101</No>
+					</image>
+					<CObject name="WSH2GREEN 844">
+						<No>13</No>
+						<No>1</No>
+						<No>844</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#5 102">
+						<No>8</No>
+						<No>102</No>
+					</image>
+					<CObject name="WSH2SEAGREEN 845">
+						<No>13</No>
+						<No>1</No>
+						<No>845</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#8 103">
+						<No>8</No>
+						<No>103</No>
+					</image>
+					<CObject name="WSH2CYAN 846">
+						<No>13</No>
+						<No>1</No>
+						<No>846</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#5 104">
+						<No>8</No>
+						<No>104</No>
+					</image>
+					<CObject name="WSH2BLUE 847">
+						<No>13</No>
+						<No>1</No>
+						<No>847</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#2 105">
+						<No>8</No>
+						<No>105</No>
+					</image>
+					<CObject name="WSH2LAVENDER 848">
+						<No>13</No>
+						<No>1</No>
+						<No>848</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#6 106">
+						<No>8</No>
+						<No>106</No>
+					</image>
+					<CObject name="WSH2VIOLET 849">
+						<No>13</No>
+						<No>1</No>
+						<No>849</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#6 107">
+						<No>8</No>
+						<No>107</No>
+					</image>
+					<CObject name="WSH2MAGENTA 850">
+						<No>13</No>
+						<No>1</No>
+						<No>850</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-8.789" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#6 108">
+						<No>8</No>
+						<No>108</No>
+					</image>
+					<CObject name="WSH2PINK 851">
+						<No>13</No>
+						<No>1</No>
+						<No>851</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="LED1 852">
+						<No>13</No>
+						<No>1</No>
+						<No>852</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#8 113">
+						<No>8</No>
+						<No>113</No>
+					</image>
+					<CObject name="LEDWHITE 853">
+						<No>13</No>
+						<No>1</No>
+						<No>853</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#5 114">
+						<No>8</No>
+						<No>114</No>
+					</image>
+					<CObject name="LEDRED 854">
+						<No>13</No>
+						<No>1</No>
+						<No>854</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#5 115">
+						<No>8</No>
+						<No>115</No>
+					</image>
+					<CObject name="LEDORANGE 855">
+						<No>13</No>
+						<No>1</No>
+						<No>855</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#7 116">
+						<No>8</No>
+						<No>116</No>
+					</image>
+					<CObject name="LEDYELLOW 856">
+						<No>13</No>
+						<No>1</No>
+						<No>856</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#5 117">
+						<No>8</No>
+						<No>117</No>
+					</image>
+					<CObject name="LEDGREEN 857">
+						<No>13</No>
+						<No>1</No>
+						<No>857</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#6 118">
+						<No>8</No>
+						<No>118</No>
+					</image>
+					<CObject name="LEDSEAGREEN 858">
+						<No>13</No>
+						<No>1</No>
+						<No>858</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#5 119">
+						<No>8</No>
+						<No>119</No>
+					</image>
+					<CObject name="LEDCYAN 859">
+						<No>13</No>
+						<No>1</No>
+						<No>859</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#6 120">
+						<No>8</No>
+						<No>120</No>
+					</image>
+					<CObject name="LEDBLUE 860">
+						<No>13</No>
+						<No>1</No>
+						<No>860</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#8 121">
+						<No>8</No>
+						<No>121</No>
+					</image>
+					<CObject name="LEDLAVENDER 861">
+						<No>13</No>
+						<No>1</No>
+						<No>861</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#5 122">
+						<No>8</No>
+						<No>122</No>
+					</image>
+					<CObject name="LEDVIOLET 862">
+						<No>13</No>
+						<No>1</No>
+						<No>862</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#5 123">
+						<No>8</No>
+						<No>123</No>
+					</image>
+					<CObject name="LEDMAGENTA 863">
+						<No>13</No>
+						<No>1</No>
+						<No>863</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-7.589" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#5 124">
+						<No>8</No>
+						<No>124</No>
+					</image>
+					<CObject name="LEDPINK 864">
+						<No>13</No>
+						<No>1</No>
+						<No>864</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="LED2 865">
+						<No>13</No>
+						<No>1</No>
+						<No>865</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#9 129">
+						<No>8</No>
+						<No>129</No>
+					</image>
+					<CObject name="LED2WHITE 866">
+						<No>13</No>
+						<No>1</No>
+						<No>866</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#7 130">
+						<No>8</No>
+						<No>130</No>
+					</image>
+					<CObject name="LED2RED 867">
+						<No>13</No>
+						<No>1</No>
+						<No>867</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#7 131">
+						<No>8</No>
+						<No>131</No>
+					</image>
+					<CObject name="LED2ORANGE 868">
+						<No>13</No>
+						<No>1</No>
+						<No>868</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#9 132">
+						<No>8</No>
+						<No>132</No>
+					</image>
+					<CObject name="LED2YELLOW 869">
+						<No>13</No>
+						<No>1</No>
+						<No>869</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#7 133">
+						<No>8</No>
+						<No>133</No>
+					</image>
+					<CObject name="LED2GREEN 870">
+						<No>13</No>
+						<No>1</No>
+						<No>870</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#7 134">
+						<No>8</No>
+						<No>134</No>
+					</image>
+					<CObject name="LED2SEAGREEN 871">
+						<No>13</No>
+						<No>1</No>
+						<No>871</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#7 135">
+						<No>8</No>
+						<No>135</No>
+					</image>
+					<CObject name="LED2CYAN 872">
+						<No>13</No>
+						<No>1</No>
+						<No>872</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#7 136">
+						<No>8</No>
+						<No>136</No>
+					</image>
+					<CObject name="LED2BLUE 873">
+						<No>13</No>
+						<No>1</No>
+						<No>873</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#5 137">
+						<No>8</No>
+						<No>137</No>
+					</image>
+					<CObject name="LED2LAVENDER 874">
+						<No>13</No>
+						<No>1</No>
+						<No>874</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#7 138">
+						<No>8</No>
+						<No>138</No>
+					</image>
+					<CObject name="LED2VIOLET 875">
+						<No>13</No>
+						<No>1</No>
+						<No>875</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#7 139">
+						<No>8</No>
+						<No>139</No>
+					</image>
+					<CObject name="LED2MAGENTA 876">
+						<No>13</No>
+						<No>1</No>
+						<No>876</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-6.389" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#7 140">
+						<No>8</No>
+						<No>140</No>
+					</image>
+					<CObject name="LED2PINK 877">
+						<No>13</No>
+						<No>1</No>
+						<No>877</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="ALL 878">
+						<No>13</No>
+						<No>1</No>
+						<No>878</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#10 145">
+						<No>8</No>
+						<No>145</No>
+					</image>
+					<CObject name="ALLWHITE 879">
+						<No>13</No>
+						<No>1</No>
+						<No>879</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#8 146">
+						<No>8</No>
+						<No>146</No>
+					</image>
+					<CObject name="ALLRED 880">
+						<No>13</No>
+						<No>1</No>
+						<No>880</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#8 147">
+						<No>8</No>
+						<No>147</No>
+					</image>
+					<CObject name="ALLORANGE 881">
+						<No>13</No>
+						<No>1</No>
+						<No>881</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#10 148">
+						<No>8</No>
+						<No>148</No>
+					</image>
+					<CObject name="ALLYELLOW 882">
+						<No>13</No>
+						<No>1</No>
+						<No>882</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#8 149">
+						<No>8</No>
+						<No>149</No>
+					</image>
+					<CObject name="ALLGREEN 883">
+						<No>13</No>
+						<No>1</No>
+						<No>883</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#8 150">
+						<No>8</No>
+						<No>150</No>
+					</image>
+					<CObject name="ALLSEAGREEN 884">
+						<No>13</No>
+						<No>1</No>
+						<No>884</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#6 151">
+						<No>8</No>
+						<No>151</No>
+					</image>
+					<CObject name="ALLCYAN 885">
+						<No>13</No>
+						<No>1</No>
+						<No>885</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#2 152">
+						<No>8</No>
+						<No>152</No>
+					</image>
+					<CObject name="ALLBLUE 886">
+						<No>13</No>
+						<No>1</No>
+						<No>886</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#3 153">
+						<No>8</No>
+						<No>153</No>
+					</image>
+					<CObject name="ALLLAVENDER 887">
+						<No>13</No>
+						<No>1</No>
+						<No>887</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#8 154">
+						<No>8</No>
+						<No>154</No>
+					</image>
+					<CObject name="ALLVIOLET 888">
+						<No>13</No>
+						<No>1</No>
+						<No>888</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#3 155">
+						<No>8</No>
+						<No>155</No>
+					</image>
+					<CObject name="ALLMAGENTA 889">
+						<No>13</No>
+						<No>1</No>
+						<No>889</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-5.189" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#8 156">
+						<No>8</No>
+						<No>156</No>
+					</image>
+					<CObject name="ALLPINK 890">
+						<No>13</No>
+						<No>1</No>
+						<No>890</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="FXHIGH 944">
+						<No>13</No>
+						<No>1</No>
+						<No>944</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#3 177">
+						<No>8</No>
+						<No>177</No>
+					</image>
+					<CObject name="FXHIGH WHITE 945">
+						<No>13</No>
+						<No>1</No>
+						<No>945</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#9 178">
+						<No>8</No>
+						<No>178</No>
+					</image>
+					<CObject name="FXHIGHRED 946">
+						<No>13</No>
+						<No>1</No>
+						<No>946</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#9 179">
+						<No>8</No>
+						<No>179</No>
+					</image>
+					<CObject name="FXHIGHORANGE 947">
+						<No>13</No>
+						<No>1</No>
+						<No>947</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#2 180">
+						<No>8</No>
+						<No>180</No>
+					</image>
+					<CObject name="FXHIGHYELLOW 948">
+						<No>13</No>
+						<No>1</No>
+						<No>948</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#10 181">
+						<No>8</No>
+						<No>181</No>
+					</image>
+					<CObject name="FXHIGHGREEN 949">
+						<No>13</No>
+						<No>1</No>
+						<No>949</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#9 182">
+						<No>8</No>
+						<No>182</No>
+					</image>
+					<CObject name="FXHIGHSEAGREEN 950">
+						<No>13</No>
+						<No>1</No>
+						<No>950</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#9 183">
+						<No>8</No>
+						<No>183</No>
+					</image>
+					<CObject name="FXHIGHCYAN 951">
+						<No>13</No>
+						<No>1</No>
+						<No>951</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#9 184">
+						<No>8</No>
+						<No>184</No>
+					</image>
+					<CObject name="FXHIGHBLUE 952">
+						<No>13</No>
+						<No>1</No>
+						<No>952</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#9 185">
+						<No>8</No>
+						<No>185</No>
+					</image>
+					<CObject name="FXHIGHLAVENDER 953">
+						<No>13</No>
+						<No>1</No>
+						<No>953</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#9 186">
+						<No>8</No>
+						<No>186</No>
+					</image>
+					<CObject name="FXHIGHVIOLET 954">
+						<No>13</No>
+						<No>1</No>
+						<No>954</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#10 187">
+						<No>8</No>
+						<No>187</No>
+					</image>
+					<CObject name="FXHIGHMAGENTA 955">
+						<No>13</No>
+						<No>1</No>
+						<No>955</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-3.597" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#9 188">
+						<No>8</No>
+						<No>188</No>
+					</image>
+					<CObject name="FXHIGHPINK 956">
+						<No>13</No>
+						<No>1</No>
+						<No>956</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="33.209" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" show_name="1" function_type="Simple" select_group="1">
+					<image />
+					<CObject name="FXLOW 960">
+						<No>13</No>
+						<No>1</No>
+						<No>960</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="34.259" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="1White Filled.png#2 193">
+						<No>8</No>
+						<No>193</No>
+					</image>
+					<CObject name="FXLOWWHITE 961">
+						<No>13</No>
+						<No>1</No>
+						<No>961</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="35.309" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="2Red Unfilled Thinner.png#10 194">
+						<No>8</No>
+						<No>194</No>
+					</image>
+					<CObject name="FXLOWRED 962">
+						<No>13</No>
+						<No>1</No>
+						<No>962</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="36.359" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="3Orange Unfilled Thinner.png#10 195">
+						<No>8</No>
+						<No>195</No>
+					</image>
+					<CObject name="FXLOWORANGE 963">
+						<No>13</No>
+						<No>1</No>
+						<No>963</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="37.409" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="4Yellow Unfilled Thinner.png#3 196">
+						<No>8</No>
+						<No>196</No>
+					</image>
+					<CObject name="FXLOWYELLOW 964">
+						<No>13</No>
+						<No>1</No>
+						<No>964</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="38.459" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="5Green Unfilled Thinner.png#9 197">
+						<No>8</No>
+						<No>197</No>
+					</image>
+					<CObject name="FXLOWGREEN 965">
+						<No>13</No>
+						<No>1</No>
+						<No>965</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="39.509" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="6SeaGreen Unfilled Thinner.png#10 198">
+						<No>8</No>
+						<No>198</No>
+					</image>
+					<CObject name="FXLOWSEAGREEN 966">
+						<No>13</No>
+						<No>1</No>
+						<No>966</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="40.559" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="7Cyan Unfilled Thinner.png#10 199">
+						<No>8</No>
+						<No>199</No>
+					</image>
+					<CObject name="FXLOWCYAN 967">
+						<No>13</No>
+						<No>1</No>
+						<No>967</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="41.609" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="8Blue Unfilled Thinner.png#10 200">
+						<No>8</No>
+						<No>200</No>
+					</image>
+					<CObject name="FXLOWBLUE 968">
+						<No>13</No>
+						<No>1</No>
+						<No>968</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="42.659" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="9Lavender Unfilled Thinner.png#10 201">
+						<No>8</No>
+						<No>201</No>
+					</image>
+					<CObject name="FXLOWLAVENDER 969">
+						<No>13</No>
+						<No>1</No>
+						<No>969</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="43.709" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="AViolet Unfilled Thinner.png#10 202">
+						<No>8</No>
+						<No>202</No>
+					</image>
+					<CObject name="FXLOWVIOLET 970">
+						<No>13</No>
+						<No>1</No>
+						<No>970</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="44.759" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="BMagenta Unfilled Thinner.png#9 203">
+						<No>8</No>
+						<No>203</No>
+					</image>
+					<CObject name="FXLOWMAGENTA 971">
+						<No>13</No>
+						<No>1</No>
+						<No>971</No>
+					</CObject>
+				</LayoutCObject>
+				<LayoutCObject font_size="Small" center_x="45.809" center_y="-2.397" size_h="1" size_w="1" background_color="3c3c3c" border_color="5a5a5a" icon="None" function_type="Simple" select_group="1">
+					<image name="CPink Unfilled Thinner.png#10 204">
+						<No>8</No>
+						<No>204</No>
+					</image>
+					<CObject name="FXLOWPINK 972">
+						<No>13</No>
+						<No>1</No>
+						<No>972</No>
+					</CObject>
+				</LayoutCObject>
+			</CObjects>
+		</LayoutData>
+	</Group>
+</MA>
